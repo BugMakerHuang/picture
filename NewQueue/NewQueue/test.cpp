@@ -1,5 +1,6 @@
 #include"Queue.h"
 #include<iostream>
+int i=0;
 using namespace std;
 int main()
 {
